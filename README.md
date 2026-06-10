@@ -1,6 +1,4 @@
-Aquí tienes un `README.md` completo, organizado y listo para copiar en tu repositorio. Incluye la parte de evidencias con las capturas de **Backend CI** y **Frontend CI**.
 
-````md
 # Proyecto DevOps - Aplicación Web en Kubernetes
 
 ## Descripción del proyecto
